@@ -1,7 +1,11 @@
-div{
+.all-property{
     border: 3px solid rgb(7, 4, 0);
     border-radius: 20px;
     background-color: cornsilk;
     margin: 10px;
-    padding: 10px;
+    padding: 30px 10px;
+}
+div > img{
+    height: 120px;
+    width: 200px;
 }

@@ -1,3 +1,9 @@
 h1{
-    color: rgba(0, 247, 70, 0.644);
+    color: rgba(2, 51, 16, 0.644);
+}
+
+.containar{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
 }
